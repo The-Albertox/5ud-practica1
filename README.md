@@ -1,1 +1,3 @@
 ##  2 commit desde rama utiles es un solo commit pero deeria haber hecho mas, uno por cada vez que añada algo y par ano tardar mas tiempo hare solo uno ocn el generador de nombres y productos
+
+## 3 commit desde rama cajero he hehco un merge de development par a bajar las cambios a esta rama en esta rama haria commits uno cuando icrre los atributos de la clase otro cuando se creo el cosntructor, otro cuando se creo los getter y setter, otro ppor cada metodo y el ultimo por metodo override y da un error por que falta los nobres de clase clientes que aun no sean hecho asi que  
